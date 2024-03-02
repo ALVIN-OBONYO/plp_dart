@@ -6,7 +6,6 @@
 
 //   // printing the sum of three numbers
 //   int sum = num1 + num2;
-
 //   print("num1 is $num1");
 //   print("num2 is $num2");
 //   // print("num3 is $num3");
@@ -17,6 +16,9 @@ void main() {
   // Declaring values
   String schoolName = "Powerlearn Project Academy";
   String address = "Africa";
+  bool isMarried = false;
+  
+  print("Married Status: $isMarried");
 
   print("My school name is $schoolName and the address is $address");
 }
